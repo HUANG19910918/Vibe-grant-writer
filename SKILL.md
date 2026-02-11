@@ -16,6 +16,7 @@ description: 国家自然科学基金标书写作专家，提供从选题、评�
 - **📝 渐进式写作**：分模块完成，每步确认质量，符合"小切口深挖掘"原则
 - **📋 标准化框架**：符合国自然最新格式要求和评审标准
 - **✍️ 语言艺术**：遵循 [tone.md](tone.md) 的精简表达原则，追求精准凝练
+- **🔍 批判性审查**：集成 [critical-reviewer.md](critical-reviewer.md) 的逐段质疑功能，写作过程中实时消灭逻辑漏洞
 
 ## 快速开始
 
@@ -327,6 +328,7 @@ description: 国家自然科学基金标书写作专家，提供从选题、评�
 
 - [选题指导](topic-selection.md)：详细的选题策略和方法
 - [模拟评审](expert-scoring.md)：完整标书评审流程
+- [批判性审查](critical-reviewer.md)：逐段质疑与逻辑漏洞修复
 - [标书框架与写作指南](framework-guide.md)：完整框架、字数要求及各部分详细写作方法
 - [青年项目模板](templates/youth-project.md)：标书模板
 - [成功案例](examples/successful-cases.md)：优秀标书示例
